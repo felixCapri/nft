@@ -1,0 +1,28 @@
+{
+  "name": "game Colection Felix",
+  "description": "In Game Caracters",
+  "image": "https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png",
+  "cover_image": "https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png",
+  "social_links": [
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "name": "Website",
+      "url": ""
+    },
+    {
+      "name": "Telegram",
+      "url": ""
+    },
+    {
+      "name": "Twitter",
+      "url": ""
+    },
+    {
+      "name": "GitHub",
+      "url": ""
+    }
+  ]
+}
